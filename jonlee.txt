@@ -1,1 +1,3 @@
-Git hub jonlee..logout
+Git hub jonlee..logout 
+
+auth 확인
